@@ -354,9 +354,14 @@ export const Send = styled.div`
     border-radius: 4px;
     color: #fff;
     background: #f3123c;
+    border: none;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: -1px;
+  }
+
+  button:hover {
+    opacity: 0.8;
   }
 `;
 

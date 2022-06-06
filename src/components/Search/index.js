@@ -148,9 +148,9 @@ const Search = () => {
         <Wrapper>
           <Checkbox>
             <input type="checkbox" name="Novos" />
-            <p>Novos</p>
+            <p style={{marginLeft:4}}>Novos</p>
             <input type="checkbox" name="Usados" />
-            <p>Usados</p>
+            <p style={{marginLeft:4}}>Usados</p>
           </Checkbox>
           <Box>
             <BoxLeft>
